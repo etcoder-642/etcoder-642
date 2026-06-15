@@ -1,16 +1,14 @@
-## Hi there 👋
+# Manasseh Samuel
 
-<!--
-**etcoder-642/etcoder-642** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring systems programmer. I like working with low-level systems,
+filesystems, storage engines, developer tooling, automation tools.
 
-Here are some ideas to get you started:
+Currently building:
+- **FlowHook** — file watcher with outcome-aware automation for Linux
+- **BlockStorageEngine + VirtualDisk** — a UNIX-like filesystem built in C++,
+  with the in-memory layer above it
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also write about low-level computing at [**Kernel Thoughts**](https://kernel-thoughts.hashnode.dev/.)
+
+---
+C++ · JavaScript (learning), Rust (learning)
